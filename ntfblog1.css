@@ -1,0 +1,24 @@
+  .slide {
+    height:75px;
+    width:250px;
+    padding:5px;
+    margin:1em auto;
+    display:table;
+    text-align:left;
+    
+   
+   }
+.slide img{
+margin:0 1em 0 1em;
+width:40px;
+height:60px;
+float:left;
+
+}
+#slideshow1, #slideshow2, #slideshow3, #slideshow4 {   
+    height:60px;
+    background:#fff;
+    border-radius:30px 30px 5px 30px;
+    padding:10px 5px 10px 5px;
+    border: 1px solid rgb(252, 94, 5);
+}
