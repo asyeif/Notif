@@ -1,5 +1,5 @@
 function startSlides(start, end, delay) {
-        setTimeout(slideshow(start,start,end, delay), delay);
+        setTimeout(slideshow(start, start, end, delay), delay);
     }
     function slideshow(frame, start, end, delay) {
         return (function() {
