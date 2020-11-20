@@ -1,0 +1,24 @@
+.slide {
+    height:75px;
+    width:200px;
+    padding:1em;
+    margin:1em auto;
+    display:table;
+    text-align:left;
+    background:white;
+    border-radius:30px 30px 5px 30px;
+    padding:10px 5px 10px 5px;
+    border-solid:2px;
+    border-color:green;
+   
+   }
+.slide img{
+margin:0 1em 0 1em;
+width:40px;
+height:60px;
+float:left;
+
+}
+#slideshow1, #slideshow2, #slideshow3, #slideshow4 {   
+    background:transparent;
+}
